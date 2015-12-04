@@ -9,7 +9,7 @@ namespace SGunpacker
     static class Program
     {
         /// <summary>
-        /// Der Haupteinstiegspunkt für die Anwendung.
+        /// Lancement de la console  f
         /// </summary>
         [STAThread]
         static void Main()
