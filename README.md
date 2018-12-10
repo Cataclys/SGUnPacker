@@ -1,2 +1,2 @@
 # SGUnPacker
-décompiler de fichier Street Gear
+Street Gears' files extractor
